@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "priconn-clicker", "priconn-clicker\priconn-clicker.csproj", "{28B2A9D4-16DB-446D-A1A3-0579EAC9DD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B2A9D4-16DB-446D-A1A3-0579EAC9DD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B2A9D4-16DB-446D-A1A3-0579EAC9DD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B2A9D4-16DB-446D-A1A3-0579EAC9DD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B2A9D4-16DB-446D-A1A3-0579EAC9DD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {533D5149-1557-4AEA-A156-B5D78DF03CE2}
+	EndGlobalSection
+EndGlobal
